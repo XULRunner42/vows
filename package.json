@@ -5,7 +5,7 @@
   "keywords"      : ["testing", "spec", "test", "BDD"],
   "author"        : "Alexis Sellier <self@cloudhead.net>",
   "contributors"  : [{ "name": "Charlie Robbins", "email": "charlie.robbins@gmail.com" }],
-  "dependencies"  : {"eyes": ">=0.1.6"},
+  "dependencies"  : {"eyes": "https://github.com/XULRunner42/eyes.js/tarball/master"},
   "main"          : "./lib/vows",
   "bin"           : { "vows": "./bin/vows" },
   "directories"   : { "test": "./test", "bin": "./bin" },
